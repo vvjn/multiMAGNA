@@ -7,10 +7,6 @@ aligner and a genetic algorithm. Written by Vipin Vijayan in collaboration with 
 
 ## Options
 
-###################
-##### OPTIONS #####
-###################
-
 ```
 -G [file containing list of networks to align]
 ```
